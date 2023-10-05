@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
-<h3 align="center">A passionate Unity Game developer from India</h3>
 
-<p align="center"> <img src="https://www.icegif.com/wp-content/uploads/video-games-icegif-1.gif" alt="h-rshjoshi" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="h-rshjoshi" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-rshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="h-rshjoshi" /> </p>
 
