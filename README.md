@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-rshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="h-rshjoshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-rshjoshi" alt="h-rshjoshi" /></a> </p>
-
 - 🌱 I’m currently learning **Blender , Unity 3D**
 
 - 👨‍💻 All of my projects are available at [https://h-rshjoshi.github.io/portfolio/](https://h-rshjoshi.github.io/portfolio/)
