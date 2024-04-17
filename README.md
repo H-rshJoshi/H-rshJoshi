@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Blender , Unity 3D**
 
-- 👨‍💻 All of my projects are available at [https://h-rshjoshi.github.io/portfolio/](https://h-rshjoshi.github.io/portfolio/)
-
 - ⚡ Fun fact [Send me request on Valorant (Louis IX #4498)]
 
 - 💬 Ask me about **Games 🕹, level Designing 🧠 , Books 📚**
@@ -18,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/harshjosh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshjosh001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-joshi5459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-joshi5459" height="30" width="40" /></a>
-<a href="https://instagram.com/harshjoshi___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshjoshi___" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
