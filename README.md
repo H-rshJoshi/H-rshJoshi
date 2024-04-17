@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://h-rshjoshi.github.io/portfolio/](https://h-rshjoshi.github.io/portfolio/)
 
-- ⚡ Fun fact [Send me request on Valorant (Louis IX #4498)](Send me request on Valorant (Louis IX #4498))
+- ⚡ Fun fact [Send me request on Valorant (Louis IX #4498)]
 
 - 💬 Ask me about **Games 🕹, level Designing 🧠 , Books 📚**
 
